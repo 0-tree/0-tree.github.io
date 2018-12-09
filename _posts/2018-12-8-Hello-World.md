@@ -3,9 +3,11 @@ layout: post
 title: Hello World!
 ---
 
+
+<div style="text-align: center;">
+	<img src="{{ site.baseurl }}/images/2018-12-8-Hello-World/banner.png" style="width:614px;height:190px;">
+</div>
+
 Hi there!
-Here is an equation, rendered as an image:
+Welcome to my blog, I hope this is the beginning of something fun!
 
-![test equation]({{ site.baseurl }}/images/2018-12-8-HelloWorld/testEq.png "a test equation")
-
-But this is not very cool... may have to consider using [reST](http://docutils.sourceforge.net/rst.html)...
