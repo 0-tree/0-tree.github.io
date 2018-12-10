@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Some Maths
 ---
 
 OK let's try to write some maths.
