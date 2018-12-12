@@ -3,7 +3,7 @@ layout: post
 title: Back to Work!
 ---
 
-I won't go into the details by now (hopefully I will once I find a job!). But after having felt that maybe I could forget this beautiful routine I've came up with, I take one minute to right down the big steps involved in my search for a perfect new job!
+I won't go into the details by now (hopefully I will once I find a job!). But after having felt that maybe I could forget this beautiful routine I've came up with, I take one minute to write down the big steps involved in my search for a perfect new job!
 
 
 ## Draw my Arrow
@@ -36,11 +36,23 @@ And here it is, my routine I don't want to forget :)
 </div>
 
 
-So basically it is 40% networking, 60% skilling-up (a term I hope exists). And the more you network, the better you know what to learn to reach the *Star*, and the more opportunities come to you. Add to this the rule that "each contact must give you another contact", and you're set.
+So basically it is
+
+> 40% networking, 60% skilling-up
+
+And the more you network, the better you know what to learn to reach the *Star*, and the more opportunities come to you. Add to this the rule that
+
+> "each contact must give you another contact"
+
+and you're set.
 
 It's like two rays that are not exactly parallel: keep drawing them, until at some point the whole thing packs up into one point (ok it's not as cool a metaphor as I though).
 
-Last point: do not be afraid of the work load! As the famous one said, "we overestimate what we can do in one hour, but we underestimate what we can do in one month" (or whatever motivates you). So yeah, I have to become a killer in data structures and algorithms to apply at Google *plus* in deep reinforcement learning to pretend being at the edge of research? No problem, just do this one daily chunk at a time - with some luck it will be sufficient for the interviews ;)
+Last point: do not be afraid of the work load! As the famous one said,
+
+> "we overestimate what we can do in one hour, but we underestimate what we can do in one month"
+
+(or whatever motivates you). So yeah, I have to become a killer in data structures and algorithms to apply at Google *plus* in deep reinforcement learning to pretend being at the edge of research? No problem, just do this one daily chunk at a time - with some luck it will be sufficient for the interviews ;)
 
 
 <div style="text-align: right"> <em>tree</em> </div>
