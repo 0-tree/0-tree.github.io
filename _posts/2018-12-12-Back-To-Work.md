@@ -3,10 +3,10 @@ layout: post
 title: Back to Work!
 ---
 
+
 <div style="text-align: center;">
 	<img src="{{ site.baseurl }}/images/2018-12-12-Back-To-Work/arrow.png" style="width:700px;height:200px;">
 </div>
-
 
 
 I won't go into the details by now (hopefully I will once I find a job!). But after having felt that maybe I could forget this beautiful routine I've came up with, I take one minute to write down the big steps involved in my search for a perfect new job!
