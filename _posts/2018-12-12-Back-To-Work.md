@@ -23,16 +23,16 @@ So for my profile, *point A* and the *Star* are typically close enough so I can 
 
 And here it is, my routine I don't want to forget :)
 
-1. Try to do a bit of each of the items in light gray everyday:
+1) Try to do a bit of each of the items in light gray everyday:
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}/images/2018-12-12-Back-To-Work/scheduleItems.png" style="width:300px;height:800px;">
+	<img src="{{ site.baseurl }}/images/2018-12-12-Back-To-Work/scheduleItems.png" style="width:300px;height:400;">
 </div>
 
-2. Repeat
+2) Repeat
 
 <div style="text-align: center;">
-	<img src="{{ site.baseurl }}/images/2018-12-12-Back-To-Work/exampleWeek.png" style="width:614px;height:600px;">
+	<img src="{{ site.baseurl }}/images/2018-12-12-Back-To-Work/exampleWeek.png" style="width:614px;height:400;">
 </div>
 
 
